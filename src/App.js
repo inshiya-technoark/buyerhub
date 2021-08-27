@@ -4,9 +4,10 @@ import './App.css';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Footer from './Pages/Footer';
 import Buyerhub from './Pages/Buyerhub';
-import Shop from './Pages/Shop';
 import Sellerhub from './Pages/Sellerhub';
 import Home from './Pages/Home';
+import Shop from './Pages/Shop';
+
 
 function App() {
   return (
